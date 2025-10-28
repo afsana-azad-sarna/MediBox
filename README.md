@@ -6,7 +6,7 @@ It features **six drawers**, each operated by an **SG90 servo motor**, along wit
 ---
 
 ## Project Preview
-![MediBox](https://.githubusercontent.com/your-image-link-here.png)  
+![MediBox](MediBox.jpg)
 
 ---
 
